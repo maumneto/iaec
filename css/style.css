@@ -106,3 +106,13 @@ ul{
     text-align: center;
     border-radius: 1em;
 }
+
+.div_content_practice{
+    color: tomato;
+    display: inline;
+}
+
+.div_content_class{
+    color: teal;
+    display: inline;
+}
