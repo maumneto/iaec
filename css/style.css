@@ -108,11 +108,13 @@ ul{
 }
 
 .div_content_practice{
-    color: tomato;
+    color: crimson;
+    font-weight: bold;
     display: inline;
 }
 
 .div_content_class{
     color: teal;
+    font-weight: bold;
     display: inline;
 }
